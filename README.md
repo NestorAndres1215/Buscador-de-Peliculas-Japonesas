@@ -10,7 +10,8 @@ Una aplicación web que muestra una lista de películas de **Studio Ghibli**, pe
 ✅ Información clave de cada película  
 
 ## 📸 Capturas de pantalla  
-_(Agrega aquí capturas de la aplicación en funcionamiento)_  
+![image](https://github.com/user-attachments/assets/8c915b30-7a9f-4d1f-b4d6-eceb37ada1bd)
+
 
 ## 🛠️ Tecnologías utilizadas  
 - HTML, CSS, JavaScript  
