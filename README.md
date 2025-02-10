@@ -18,7 +18,4 @@ Una aplicación web que muestra una lista de películas de **Studio Ghibli**, pe
 - Bootstrap 5  
 - API de Studio Ghibli  
 
-## 🔧 Instalación  
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/TU_USUARIO/buscador-ghibli.git
+
